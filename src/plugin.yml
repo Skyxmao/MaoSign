@@ -1,0 +1,9 @@
+name: MaoSign
+main: me.xmao.MaoSign.Main
+version: "1.0.0"
+api: ["1.0.0"]
+
+
+author: XMAO
+description: PointSign
+website: http://xmao.me
